@@ -1,3 +1,27 @@
+
+# Simple Task Management App
+
+
+## Goals
+My goal for this application was as follows:
+
+- **Create Efficient Routes**: I aimed to create a route file with as few lines of code as possible. This was achieved by utilizing the `Route::resource` method, which automatically generates all 7 RESTful route methods.
+
+- **Practice Component Creation**: I aimed to reduce the amount of repeated code by practicing component creation throughout the application.
+
+- **Slick Success Notifications**: I wanted to create fully functioning and visually appealing success notifications when a task is either removed or created. This was accomplished using Alpine.js and Tailwind CSS.
+
+- **Dip my Toes into Tailwind**: I aimed to familiarize myself with Tailwind CSS and its inline nature to create a visually appealing interface.
+
+- **Factory Class Implementation**: I implemented a factory class for generating fake data using Tinker.
+
+
+![createtask](https://github.com/uralrdybread/taskmanager/assets/48900828/35f30adb-e789-434d-86d6-a75086b65eac)
+![indexscreen](https://github.com/uralrdybread/taskmanager/assets/48900828/bf0d3fac-7355-45bc-8bdd-5cd6844b8c99)
+![notify](https://github.com/uralrdybread/taskmanager/assets/48900828/447232cd-433a-4b3e-8cd9-7068a4d1feb7)
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
